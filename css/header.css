@@ -1,0 +1,197 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.coloring 
+{
+   background-color: rgb(207 128 140);
+}
+
+.jumbotron
+{
+background-image: url('../img/bg-jumbo.jpg') ;
+background-repeat: no-repeat;
+color: white;
+}
+
+.body
+{
+    background-color: rgb(225 161 171);
+}
+/* login/signup */
+.login
+{
+    height: 520px;
+    border: 2px solid white;
+}
+
+.signup
+{
+    border: 2px solid white;
+}
+
+.logo
+{
+    height: 73px;
+    width: 97px;
+    margin-left: 216px;
+    margin-top: 6px;
+}
+
+.butt
+{
+    margin-top: 40px;
+}
+
+.buttt
+{
+    margin-top: 110px;
+}
+
+.tocenter
+{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.clr
+{
+    color: white;
+}
+
+/* acceptance criteria */
+.acceptance
+{
+    height: 935px;
+    border: 2px solid white;
+}
+.btnaccept
+{
+    margin-top: 20px;
+    margin-left: 390px;
+    margin-bottom: 20px;
+}
+.clrs
+{
+    color: white;
+    font-weight: bold;
+}
+
+.makecenter
+{
+    display: flex;
+    justify-content: center;
+}
+
+.hrnew
+{
+    border-top: 1px solid white;
+}
+/* about us */
+.btnaaboutus
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.aboutus
+{
+    border: 2px solid white;
+    height: 1331px;
+}
+/* contact us */
+.logocontact
+{
+    height: 155px;
+    width: 200px;
+    margin-left: 445px;
+    margin-top: 6px;
+}
+.tocentercontact
+{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+}
+.imgs
+{
+    height: 30px;
+    width: 30px;
+}
+.contactus
+{
+    border: 2px solid white;
+}
+
+.cen{
+    display: flex;
+    justify-content: center;
+}
+
+.btncontact
+{
+    margin-top: 20px;
+    margin-left: 484px;
+    margin-bottom: 20px;
+}
+/* Adopt Now */
+.adopt
+{
+    height: 1110px;
+    border: 2px solid white;
+}
+
+/* admin panel */
+.setheight
+{
+    height: 500px;
+}
+.adminpanel
+{
+    height: 1210px;
+    background-color: white;
+    border: 10px solid rgb(207 128 140);
+}
+.bor-right
+{
+    border-right: 4px solid rgb(207 128 140);
+    font-size: 25px;
+}
+
+.clradmin
+{
+    color: rgb(207 128 140);
+    font-weight: bold;
+}
+
+.cenadmin
+{
+    display: flex;
+    justify-content: left;
+}
+
+/* index */
+.animal
+{
+    height: 243px;
+    width: 348px;
+}
+.indexmain
+{
+    height: 100%;
+}
+
+.clrsind
+{
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.btnindex
+{
+    margin-left: 105px;
+}
+
